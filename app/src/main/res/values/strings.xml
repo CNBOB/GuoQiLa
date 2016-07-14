@@ -7,6 +7,7 @@
     <string name="prompt_phone">手机号</string>
     <string name="action_sign_in">登录</string>
     <string name="action_register">注册</string>
+    <string name="action_settings">设置</string>
     <string name="action_sign_in_short">登录</string>
     <string name="error_invalid_email">This email address is invalid</string>
     <string name="error_invalid_phone">输入的手机号有误</string>
@@ -18,4 +19,6 @@
     </string>
     <string name="title_activity_main">过期啦</string>
     <string name="title_activity_register">注册</string>
+    <string name="title_activity_add_item">新增</string>
+    <string name="title_return">返回</string>
 </resources>
