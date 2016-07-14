@@ -30,12 +30,15 @@
             android:name=".RegisterActivity"
             android:label="@string/title_activity_register" />
         <activity
-            android:label="@string/title_return"
-            android:name=".AddItemActivity">
+            android:name=".AddItemActivity"
+            android:label="@string/title_return">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.namilili.guoqila.MainActivity"></meta-data>
+                android:value="com.namilili.guoqila.MainActivity" />
         </activity>
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/title_activity_settings"></activity>
     </application>
 
 </manifest>
