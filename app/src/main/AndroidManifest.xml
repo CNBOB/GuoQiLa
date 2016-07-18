@@ -44,5 +44,4 @@
                 android:value="com.namilili.guoqila.MainActivity" />
         </activity>
     </application>
-
 </manifest>
